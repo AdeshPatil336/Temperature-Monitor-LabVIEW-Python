@@ -26,9 +26,9 @@ The VI displays temperature using a thermometer and converts it into multiple un
 ![Block Diagram](screenshots/Block_Diagram.png)
 
 ⚠️ Requirements
-LabVIEW installed
-Python 3.x
-Install dependency:
+- LabVIEW installed
+- Python 3.x
+- Install dependency:
 
 pip install pywin32
 
